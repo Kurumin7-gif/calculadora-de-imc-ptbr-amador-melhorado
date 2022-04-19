@@ -5,3 +5,5 @@ arquivo .py para fins educacionais e editável, códigos podem ser alterados com
 aproveite. :>
 
 from scratch
+
+![image](https://saudemedico.com/wp-content/uploads/2021/03/431af31cb5b576337ade1e5ac0777e58-300x157.jpg)
